@@ -20,7 +20,7 @@ class Scraper
     page = 
   end
   
-  def self.get_courses 
+  def get_courses 
     page.css.
   end 
   
