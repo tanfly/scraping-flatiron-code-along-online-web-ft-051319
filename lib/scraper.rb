@@ -18,7 +18,7 @@ class Scraper
   end
   
   def get_page 
-    page = 
+    doc = 
   end
   
   def get_courses 
